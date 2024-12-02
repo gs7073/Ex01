@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //תביא לי מאה
         //אלברט המלך
-
         //בהצלחה לכולם
+
 
 
 
